@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313"
 languageCode = "en"
-title = "Mark Berning Blog"
+title = "Mark Berning"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
