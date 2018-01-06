@@ -13,7 +13,7 @@ canonifyurls = true
 googleAnalytics = "UA-XXXXXXXX-X"
 
 # Copyright of your post
-copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Enjoy!"
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
@@ -36,9 +36,9 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Add your own params here
 [params]
-  author = "Mark Berning"
+  author = "Mark"
   avatar = "/img/avatar.jpg"
-  seotitle = "Hugo Blog (SEO Version)"
+  seotitle = "Mark Berning Blog"
   subtitle = "~ Keep It Simple & Stupid ~"
   description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
   paginate = 10
