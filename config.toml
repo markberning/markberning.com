@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://www.markberning.com/"
 languageCode = "en"
 title = "Mark Berning"
 theme = "hugo-nuo-theme"
