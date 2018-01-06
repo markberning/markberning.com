@@ -4,6 +4,6 @@ date: 2018-01-05T23:24:31-08:00
 tags: ["Post", "Hugo"]
 ---
 
-My first post using the Hugo static site generator. Hello Everybody!
+My first post using the Hugo static site generator. Hello Everybody!!!!!!
 
-Let's get this thing started.
+Let's get this thing started!

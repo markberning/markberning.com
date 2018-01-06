@@ -1,4 +1,5 @@
 baseURL = "https://www.markberning.com/"
+# baseURL = "localhost:1313"
 languageCode = "en"
 title = "Mark Berning"
 theme = "hugo-nuo-theme"
