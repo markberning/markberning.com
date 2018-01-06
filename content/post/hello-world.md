@@ -1,6 +1,7 @@
 ---
 title: "Hello World"
 date: 2018-01-05T23:24:31-08:00
+tags: ["Post", "Hugo"]
 ---
 
 My first post using the Hugo static site generator. Hello Everybody!
